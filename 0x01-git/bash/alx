@@ -1,1 +1,2 @@
-0x01-git bash/school
+#!/bin/bash
+echo "ALX"
